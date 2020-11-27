@@ -1,0 +1,7 @@
+.Lotto{
+  align-self: center;
+}
+.BallRow{
+  display: flex;
+  justify-content: center;
+}
